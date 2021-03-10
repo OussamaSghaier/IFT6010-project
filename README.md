@@ -14,7 +14,7 @@ See [this notebook](./5Emotions_deep_DistilBert.ipynb) for more details about th
 The project contains these 2 files:
 * [5Emotions_deep_DistilBert.ipynb](./5Emotions_deep_DistilBert.ipynb): A notebook that contains all the implementation details: data gathering, preprocessing, model implementation, evaluation and predictionm etc.
 * [combined_data.csv](./combined_data.csv): This *CSV* file contains the processed data collected from different sources. The data has the following format: 
-**sentence, [happiness, sadness, worry, guilt, anger, undertain]**
+**sentence, [happiness, sadness, worry, undertain, neutral]**
 
 ## Links
 See [this document](https://drive.google.com/file/d/1aiPrTkQnRxBmuwV2CygcV0MU1kBbpPU5/view?usp=sharing) for more information about this project.
