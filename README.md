@@ -21,4 +21,4 @@ See [this document](https://drive.google.com/file/d/1aiPrTkQnRxBmuwV2CygcV0MU1kB
 
 The pre-trained model is available at [this link](https://drive.google.com/file/d/1NtYegiwOOLRNz8k187McBHyediLIYh6q/view?usp=sharing).
 
-If you are facing issues in notebook rendering on Github, you can vizualize it [here](https://nbviewer.jupyter.org/github/OussamaSghaier/IFT6010-project/blob/main/5Emotions_deep_DistilBert.ipynb)
+If you are facing issues in notebook rendering on Github, you can also vizualize it [here](https://nbviewer.jupyter.org/github/OussamaSghaier/IFT6010-project/blob/main/5Emotions_deep_DistilBert.ipynb)
