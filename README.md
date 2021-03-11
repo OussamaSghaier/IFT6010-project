@@ -3,7 +3,7 @@
 ## Description
 We use a pre-trained transformer-based network *DistilBERT* to generate embeddings for our input sentences.
 Then, we use a 4-layers neural network to predict a target emotion.
-We predict 5 emotions: *happiness*, *sadness*, *anger*, *uncertainty*, *neutral*.
+We predict 5 emotions: *happiness*, *sadness*, *worry*, *uncertainty*, *neutral*.
 
 Our model reached **0.9624** as training accuracy, and **0.9627** as test accuracy.
 We generate a more detailed evaluation report (accuracy, precision, recall, F-score) in the notebook.
