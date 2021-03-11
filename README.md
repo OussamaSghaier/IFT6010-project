@@ -5,7 +5,7 @@ We use a pre-trained transformer-based network *DistilBERT* to generate embeddin
 Then, we use a 4-layers neural network to predict a target emotion.
 We predict 5 emotions: *happiness*, *sadness*, *worry*, *uncertainty*, *neutral*.
 
-Our model reached **0.9624** as training accuracy, and **0.9627** as test accuracy.
+Our model reached **0.9626** as training accuracy, and **0.9620** as test accuracy.
 We generate a more detailed evaluation report (accuracy, precision, recall, F-score) in the notebook.
 
 See [this notebook](./5Emotions_deep_DistilBert.ipynb) for more details about the implementation and evaluation.
@@ -20,3 +20,5 @@ The project contains these 2 files:
 See [this document](https://drive.google.com/file/d/1aiPrTkQnRxBmuwV2CygcV0MU1kBbpPU5/view?usp=sharing) for more information about this project.
 
 The pre-trained model is available at [this link](https://drive.google.com/file/d/1NtYegiwOOLRNz8k187McBHyediLIYh6q/view?usp=sharing).
+
+If you are facing issues in notebook rendering on Github, you can also vizualize it [here](https://nbviewer.jupyter.org/github/OussamaSghaier/IFT6010-project/blob/main/5Emotions_deep_DistilBert.ipynb)
